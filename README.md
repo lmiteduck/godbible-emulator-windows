@@ -19,7 +19,8 @@
 
 ## 설치 (한 번만)
 
-1. 이 저장소를 내려받아 `C:\godbible-emulator` 처럼 **영문이고 띄어쓰기 없는 경로**에 풀어요.
+1. 이 저장소를 내려받아요. [여기를 누르면 zip으로 받아져요](https://github.com/lmiteduck/godbible-emulator-windows/archive/refs/heads/main.zip). (또는 위쪽 초록색 **Code** 버튼 → **Download ZIP**)
+   받은 zip을 `C:\godbible-emulator` 처럼 **영문이고 띄어쓰기 없는 경로**에 풀어요.
 2. `setup.bat` 을 더블클릭해요. 약 2GB를 받아요. 회선에 따라 10~30분 걸려요.
 3. 끝에 "설치가 끝났어요"가 나오면 돼요. 중간에 끊기면 다시 실행하면 이어서 받아요.
 
