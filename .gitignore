@@ -1,0 +1,9 @@
+sdk/
+avd/
+android_home/
+dl/
+out/
+*.log
+doctor-result.txt
+__pycache__/
+*.apk
